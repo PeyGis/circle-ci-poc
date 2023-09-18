@@ -8,4 +8,4 @@ class TestCases():
     
     def test_sub():
         assert sub(5, 2) == 3
-        print("test sub passed")
+        print("test sub passed successfully")
