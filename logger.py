@@ -1,1 +1,1 @@
-print("Logging job for us")
+print("Logging job for us AND ALL")
